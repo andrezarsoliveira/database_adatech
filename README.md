@@ -4,7 +4,7 @@ O projeto visou a criação de uma loja de insumos para tatuagem, um estabelecim
 a prática da arte da tatuagem. Atendendo a profissionais tatuadores, estúdios de tatuagem e entusiastas que desejam realizar tatuagens de forma segura e eficiente.
 
 <p align="center"> <img src=
-"https://img.freepik.com/vetores-gratis/maquina-de-tatuagem-e-ilustracao-de-tintas_1284-19862.jpg?w=740&t=st=1703025732~exp=1703026332~hmac=45e998f57789f0724a2680cd9cfeb6080490c7b9f78d955e62fc78f352eb505b" width="500"> </p>
+"https://img.freepik.com/vetores-gratis/maquina-de-tatuagem-e-ilustracao-de-tintas_1284-19862.jpg?w=740&t=st=1703025732~exp=1703026332~hmac=45e998f57789f0724a2680cd9cfeb6080490c7b9f78d955e62fc78f352eb505b" width="490"> </p>
 
 
 
@@ -30,21 +30,20 @@ cardinalidade e do diagrama de entidade-relacionamento(DER).
 
 ## Modelo Lógico
 O modelo lógico serve como uma base sólida para a criação do banco de dados físico. Ele fornece uma representação mais detalhada dos dados, permitindo que os desenvolvedores implementem 
-efetivamente a estrutura do banco de dados de acordo com os requisitos identificados no modelo conceitual. É composto por: Tabelas, colunas(atributos), chaves primárias e estrangeiras, relacionamentos e integridade 
-referencial, normalização, tipos de dados.
+efetivamente a estrutura do banco de dados de acordo com os requisitos identificados no modelo conceitual. É composto por: Tabelas, colunas(atributos), chaves primárias e estrangeiras, relacionamentos e integridade referencial, normalização, tipos de dados.
 
 ## Modelo Físico
-É  a terceira e última fase no processo de modelagem de dados, O modelo físico é a ponte entre a concepção abstrata do sistema (modelo conceitual) e
-a sua efetiva implementação e operação no ambiente do banco de dados. O foco está na implementação prática do design do banco de dados, considerando aspectos como desempenho, 
-armazenamento e otimização. É diretamente traduzido em um esquema de banco de dados real, utilizando a linguagem de definição de dados (DDL), como o SQL (Structured Query Language).
-É composto por: Índices, restrições de integridade, particionamento, segmentação de tabelas, organização de índices, esquema de armazenamento, particularidades do banco de Dados específico.
+É  a terceira e última fase no processo de modelagem de dados, é a ponte entre a concepção abstrata do sistema (modelo conceitual) e
+a sua efetiva implementação e operação no ambiente do banco de dados. O foco está na implementação prática do design do banco de dados, além de aspectos como desempenho, 
+armazenamento e otimização. Utiliza a linguagem de definição de dados (DDL), como o SQL (Structured Query Language).
+É composto por: Índices, restrições de integridade, particionamento, segmentação de tabelas, organização de índices, esquema de armazenamento, particularidades do banco de dados específico.
 
 ## Banco de Dados
 O projeto foi realizado na linguagem SQL para manipulação de dados no PostgreSQL, um sistema gerenciador de banco de dados objeto relacional. Foram criadas tabelas, querys, chaves, utilização de comandos para consultas,
 inserções, atualizações e exclusões.
 
 
-<p align="center"> <img src="https://img.freepik.com/fotos-premium/conceito-de-banco-de-dados-3d-com-laptop_441797-7937.jpg?w=740" width="600"> </p>
+<p align="center"> <img src="https://img.freepik.com/fotos-premium/conceito-de-banco-de-dados-3d-com-laptop_441797-7937.jpg?w=740" width="560"> </p>
 
 
 
