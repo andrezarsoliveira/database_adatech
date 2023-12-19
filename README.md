@@ -1,4 +1,4 @@
-## Loja Tatuagem
+## Loja Insumos de Tatuagem
 
 O projeto visou a criação de uma loja de insumos para tatuagem, um estabelecimento que fornece uma ampla variedade de produtos e equipamentos necessários para 
 a prática da arte da tatuagem. Atendendo a profissionais tatuadores, estúdios de tatuagem e entusiastas que desejam realizar tatuagens de forma segura e eficiente.
