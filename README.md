@@ -1,4 +1,4 @@
-## Loja Insumos de Tatuagem
+## Loja de Insumos de Tatuagem
 
 O projeto visou a criação de uma loja de insumos para tatuagem, um estabelecimento que fornece uma ampla variedade de produtos e equipamentos necessários para 
 a prática da arte da tatuagem. Atendendo a profissionais tatuadores, estúdios de tatuagem e entusiastas que desejam realizar tatuagens de forma segura e eficiente.
@@ -27,6 +27,8 @@ Sendo em três níveis de modelagem: conceitual, lógico e físico.
 Fornece uma visão clara e intuitiva do sistema, facilitando a comunicação entre os envolvidos no projeto e ajudando a definir os requisitos iniciais.
 À medida que o desenvolvimento do sistema avança, o modelo conceitual serve como base para a criação de modelos lógicos e físicos mais detalhados. É composto por: Entidades,atributos, relacionamentos,
 cardinalidade e do diagrama de entidade-relacionamento(DER).
+<p align="center"> <img scr= "width="490"</p>
+
 
 ## Modelo Lógico
 O modelo lógico serve como uma base sólida para a criação do banco de dados físico. Ele fornece uma representação mais detalhada dos dados, permitindo que os desenvolvedores implementem 
